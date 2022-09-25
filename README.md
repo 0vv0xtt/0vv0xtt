@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @0vv0xtt
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Mathematics and Economics
 - 📫 reach me at ry973 at nyu dot edu
 
