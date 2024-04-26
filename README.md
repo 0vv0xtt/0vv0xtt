@@ -1,6 +1,6 @@
 - 👋 Hi, I’m VIVIAN
-- 🌱 I’m currently STUDYING APPLIED ANALYTICS @CU, Previously learning Mathematics and Economics @NYU
-- 📫 reach me at vivian dot yin at nyu dot edu
+- 🌱 I’m currently Studying Applied Analytics @Columbis, Mathematics and Economics @NYU‘22
+- 📫 reach me at vivian dot yin at columbia dot edu
 
 <!---
 0vv0xtt/0vv0xtt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
