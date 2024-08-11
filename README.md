@@ -1,5 +1,5 @@
 - 👋 Hi, I’m VIVIAN
-- 🌱 I’m currently Studying Applied Analytics @Columbis, Mathematics and Economics @NYU‘22
+- 🌱 I’m currently Studying Applied Analytics @Columbia University, graduated from Mathematics and Economics @NYU‘22
 - 📫 reach me at vivian dot yin at columbia dot edu
 
 <!---
